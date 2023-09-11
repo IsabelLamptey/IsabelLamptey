@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### I'm new to GitHub and currently learning Python.
+### I'm open to any suggestions or feedback.
 <!--
 **IsabelLamptey/IsabelLamptey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
